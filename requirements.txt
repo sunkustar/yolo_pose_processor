@@ -1,0 +1,8 @@
+ultralytics
+opencv-python-headless
+numpy
+tqdm
+google-cloud-storage
+fastapi
+uvicorn
+python-multipart
